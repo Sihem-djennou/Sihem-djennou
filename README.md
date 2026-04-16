@@ -2,11 +2,9 @@
 <h3 align="center">A backend developer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:djennousira@gmail.com">
-
-  </a>
+  <a href="mailto:djennousira@gmail.com">djennousira@gmail.com</a>
 </p>
 
 ---
