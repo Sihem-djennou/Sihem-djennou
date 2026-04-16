@@ -1,25 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=500&lines=Assalamalaikom...👋;I'm+Sihem+djennou" alt="Typing SVG" />
-</h1>
+<h1 align="center">Assalamalaikom I'm Sihem DN</h1>
+<h3 align="center">A backend developer</h3>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</h3>
+- Connect with me **djennousira@gmail.com**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sihem-djennou&style=flat-square&color=6C63FF" alt="Profile Views" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:djennousira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-djennousira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C2C2C" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Technologies & Tools
